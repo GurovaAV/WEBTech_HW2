@@ -1,0 +1,30 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: beige;
+}
+h1 {
+    font-size: large;
+}
+.bold {
+    font
+}
+.light-blue {
+    background-color: #95FFD5 ;
+}
+.dark-blue {
+    background-color: #0084BD ;
+}
+.orange {
+    background-color: orange ;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.item {
+    height: 300 px;
+}
+.BigGray {
+  color: rgb(145, 25, 105);  
+  font-size: xx-large;
+}
